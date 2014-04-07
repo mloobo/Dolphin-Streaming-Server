@@ -26,4 +26,11 @@ RTP/RSTP Clients
 
 Below is a list of clients on the server works:
 
-    VLC <a href="http://www.videolan.org/vlc/">VLC</a>s
+    VLC http://www.videolan.org/vlc/
+
+Dependencies
+------------
+
+The server has the following libraries/dependencies:
+
+    Java Media Framework (JMF) http://www.oracle.com/technetwork/java/javase/tech/index-jsp-140239.html 
